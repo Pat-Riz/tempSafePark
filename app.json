@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "79fa62cd-71d8-46bc-addd-15c0c164907c"
+      }
+    },
+    "owner": "parriz"
   }
 }
